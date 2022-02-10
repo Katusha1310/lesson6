@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: Shelley-AndanteScript;
-    src: url(../font/Shelley-AndanteScript.woff);
+    src: url(../font/Shelley-AndanteScript.woff) format(woff);
 }
 
 

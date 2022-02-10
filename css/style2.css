@@ -1,18 +1,18 @@
 @font-face {
     font-family: Circular Std;
-    src: url(../font/CircularStd-Black.woff,woff2);
+    src: url("../font/CircularStd-Black.woff,woff2") format(woff2), url(../font/CircularStd-Bold.woff) format(woff);
 }
 @font-face {
     font-family: Circular Std;
-    src: url(../font/CircularStd-Bold.woff2,woff);
+    src: url("../font/CircularStd-Bold.woff2,woff") format(woff), url("../font/CircularStd-Bold.woff2,woff2") format(woff2);
 }
 @font-face {
     font-family: Circular Std;
-    src: url(../font/CircularStd-Book.woff,woff2);
+    src: url("../font/CircularStd-Book.woff2") format(woff2), url(../font/CircularStd-Book.woff) format(woff);
 }
 @font-face {
     font-family: Circular Std;
-    src: url(../font/CircularStd-Medium.woff,woff2);
+    src: url("../font/CircularStd-Medium.woff2") format(woff2), url(../font/CircularStd-Medium.woff) format(woff);
 }
 
 
@@ -64,7 +64,7 @@ html {
 h1{
 font-size: 65px;
 font-weight: 400;
-line-height: 1,26;
+line-height: 1.26;
 text-align: center;
 }
 .header{
