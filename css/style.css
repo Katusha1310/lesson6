@@ -110,7 +110,7 @@ h2{
 }
 .aa{
     display: inline-block;
-    background-color:solid 3px coral ;
+    background-color:solid 3px;
     border: solid 2px black;
 }
 .aa-1{
