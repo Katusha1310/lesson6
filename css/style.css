@@ -48,7 +48,6 @@ html {
 }
 .header{
     display: block;
-    font-family: Open Sans Condensed;
     font-weight: 300;
     margin-bottom: 40px;
     text-align: center;
@@ -98,7 +97,7 @@ margin-bottom: 70px;
     font-size: 25px;
 }
 .main .text-3{
-    font-family: Montserrat Alternates;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h2{
     display: inline-block;
@@ -148,8 +147,7 @@ h2{
     display: block;
     margin: 0 auto;
     text-align: center;
-    font-family: Kaisei Decol;
-    font-size: 30px;
+    font-size:30px;
     color: royalblue;
     text-transform: uppercase;
 }
