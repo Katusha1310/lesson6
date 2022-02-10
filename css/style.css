@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: Shelley-AndanteScript;
-    src: url(../font/Shelley-AndanteScript.woff) format(woff);
+    src: url("../font/Shelley-AndanteScript.woff") format("woff");
 }
 
 
@@ -88,10 +88,9 @@ margin-bottom: 70px;
     border: solid 4px red;
     border-radius: 30px;
     background-color: blanchedalmond;
-    font-family: Open+Sans+Condensed;
     font-family: Caveat;
     margin-bottom: 60px;
-}
+ }
 .text-1{
     font-family: Caveat;
     padding:20px;
@@ -111,8 +110,9 @@ h2{
     margin-left: 50px;
 }
 .aa{
+    display: inline-block;
     background-color: coral solid 3px;
-    border: 3px black solid;
+    border: solid 2px black;
 }
 .aa-1{
     display: block;
@@ -169,6 +169,7 @@ h2{
     text-align: right;
     border: turquoise solid 4px;
     border-radius: 15px;
+    margin-bottom: 30px;
 }
 .footer{
     margin: 40px;
